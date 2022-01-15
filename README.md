@@ -1,4 +1,4 @@
-# G2i run instructions
+# Run instructions
 
 In the terminal run `npm i` to install dependencies then run `npm run start` to launch dev server.
 
